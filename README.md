@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=slimchances" alt="slimchances" /></a> </p>
 
-- 🔭 I’m currently working on [Envision 5.1 Fivem Server](https://discord.gg/envisionrp)
+- 🔭 I’m currently working on [New Life Roleplay RP Server](https://discord.gg/u9QgAFPnv2)
 
-- 🌱 I’m currently learning **Lua, C++/C#**
+- 🌱 I’m currently Deveolping Projects Using **Lua, C++/C#**
 
 - 👨‍💻 All of my projects are available at [Here](Here)
 
 - 💬 Ask me about **PHP, Java**
 
-- 📫 How to reach me **contact@slimchancesmusic.com**
+- 📫 How to reach me **contact@hisalonemusic.com**
 
 - ⚡ Fun fact **I am 1337**
 
